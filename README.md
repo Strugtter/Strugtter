@@ -15,7 +15,7 @@ const Camilo = {
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=Strugtter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=151515&bg_color=9f9f9f)
 
 <br />
-# Contact  
+
  [![Linkedin Badge](https://img.shields.io/badge/-CamiloBotina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camiloandresbotinatrujillo/)](https://www.linkedin.com/in/camiloandresbotinatrujillo/)
 
 <!--
