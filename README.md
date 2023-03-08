@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+```javascript
+const Camilo = {
+  pronouns: "he" | "him",
+  code: [JavaScript, Java, CSS3, HTML5, MongoDB, SQL, Git, Github],
+  tools: [ReactJs, NestJs, NodeJs, Spring Boot, Bootstrap],
+}
+```
 <!--
 **Strugtter/Strugtter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
