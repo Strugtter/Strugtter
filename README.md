@@ -16,7 +16,7 @@ const Camilo = {
 
 <br />
 # Contact  
- [![Linkedin Badge](https://img.shields.io/badge/-CamiloBotina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camiloandresbotinatrujillo/)](https://www.linkedin.com/in/camiloandresbotinatrujillo/)[![Gmail Badge](https://img.shields.io/badge/-camilobotinatrujillo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilobotinatrujillo@gmail.com)](mailto:camilobotinatrujillo@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-CamiloBotina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camiloandresbotinatrujillo/)](https://www.linkedin.com/in/camiloandresbotinatrujillo/)
 
 <!--
 **Strugtter/Strugtter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
