@@ -5,7 +5,7 @@
 const Camilo = {
   pronouns: "he" | "him",
   code: [JavaScript, Java, CSS3, HTML5, MongoDB, SQL, Git, Github],
-  tools: [ReactJs, NestJs, NodeJs, Spring Boot, Bootstrap],
+  tools: [ReactJs, Express, Spring Boot, Bootstrap, Tailwindcss],
 }
 ```
 
